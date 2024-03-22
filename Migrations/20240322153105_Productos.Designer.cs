@@ -11,8 +11,8 @@ using backendProducto.Models;
 namespace backendProducto.Migrations
 {
     [DbContext(typeof(contextoProducto))]
-    [Migration("20240321143252_Producto")]
-    partial class Producto
+    [Migration("20240322153105_Productos")]
+    partial class Productos
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

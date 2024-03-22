@@ -17,10 +17,7 @@ namespace backendProducto.Models
         public decimal Precio { get; set; }
 
 
-        // Esta propiedad representa la clave externa para la relación con la categoría
-        public int CategoriaId { get; set; }
 
-        // Esta propiedad representa la navegación a la categoría
-        public Categoria categoria { get; set; }
+
     }
 }

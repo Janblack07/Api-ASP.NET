@@ -134,3 +134,4 @@ F:\Programas\C#\Proyecto\Productos\backendProducto\obj\Debug\net8.0\refint\backe
 F:\Programas\C#\Proyecto\Productos\backendProducto\obj\Debug\net8.0\backendProducto.pdb
 F:\Programas\C#\Proyecto\Productos\backendProducto\obj\Debug\net8.0\backendProducto.genruntimeconfig.cache
 F:\Programas\C#\Proyecto\Productos\backendProducto\obj\Debug\net8.0\ref\backendProducto.dll
+F:\Programas\C#\Proyecto\Productos\backendProducto\obj\Debug\net8.0\backendProducto.sourcelink.json
